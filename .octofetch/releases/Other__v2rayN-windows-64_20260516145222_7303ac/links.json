@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3105",
+  "folder": "Other__v2rayN-windows-64_20260516145222_7303ac",
+  "base_name": "Other__v2rayN-windows-64_20260516145222_7303ac.zip",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/alipakzad717-design/Cloud-Downloads-2/releases/tag/co-releases-v1-3105",
+  "files": [
+    {
+      "name": "Other__v2rayN-windows-64_20260516145222_7303ac.zip",
+      "url": "https://github.com/alipakzad717-design/Cloud-Downloads-2/releases/download/co-releases-v1-3105/Other__v2rayN-windows-64_20260516145222_7303ac.zip",
+      "api_url": "https://api.github.com/repos/alipakzad717-design/Cloud-Downloads-2/releases/assets/421875164",
+      "id": 421875164,
+      "size": 157991785,
+      "download_count": 0
+    }
+  ]
+}
